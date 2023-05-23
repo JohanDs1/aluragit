@@ -1,0 +1,26 @@
+body{
+    background:#000000
+
+}
+h1{
+    text-align:center;
+    color: #add8e6
+}
+
+#definition{
+    text-align: center;
+    color:#ffffff
+}
+p strong em{
+    color: rgb(19, 79, 207);
+}
+.ima{
+    position: absolute;
+    width: 25%;
+    border: 2px solid white;
+    display: inline;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 0 0 0 560px;
+   
+}
