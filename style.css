@@ -24,3 +24,14 @@ p strong em{
     margin: 0 0 0 560px;
    
 }
+
+.items{
+    text-decoration: none;
+    position: flex;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 2px 0;
+}
+.items:before{
+    content: "\2726";
+}
