@@ -26,7 +26,7 @@ p strong em{
 }
 
 .items{
-    text-decoration: none;
+    display: block;
     position: flex;
     font-weight: bold;
     color: #ffffff;
